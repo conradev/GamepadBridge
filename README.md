@@ -1,6 +1,6 @@
 # GamepadBridge
 
-GamepadBridge brings HTML5 Gamepad API support to iOS WebKit using the iOS 7 `GameController` framework.
+GamepadBridge brings the HTML5 Gamepad API to iOS WebKit using the iOS 7 `GameController` framework.
 
 In other words, you can now support iOS game controllers in your HTML5 game. All you need to do is install this Pod and `UIWebView` will magically have support for gamepads.
 
